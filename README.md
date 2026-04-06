@@ -7,9 +7,13 @@ I’m passionate about cybersecurity, ethical hacking, and building tools that e
 
 # About Me
 🔐 Aspiring Penetration Tester
+
 🛠️ Building custom cybersecurity tools
+
 🐍 Strong command over Python
+
 📡 Interested in network security, wireless attacks, and drone security
+
 🧠 Always learning and experimenting with new techniques in ethical hacking
 
 # 🧰 Skills & Tools
@@ -17,30 +21,41 @@ I’m passionate about cybersecurity, ethical hacking, and building tools that e
 # Languages:
 
 Python 🐍
+
 Bash / Shell scripting
 
 # Cybersecurity:
 
 Penetration Testing Basics
+
 Reconnaissance & Enumeration
+
 Exploitation Concepts
+
 Wireless Security
 
 # Tools & Frameworks:
 
 Metasploit
+
 Nmap
+
 Wireshark
+
 Burp Suite
 
 # 📈 Goals
 🎯 Become a professional penetration tester
+
 🧪 Build advanced security tools
+
 🏆 Participate in CTFs and bug bounty programs
+
 📚 Deep dive into exploit development
 
 # 🤝 Let's Connect
 💬 Open to collaboration on cybersecurity projects
+
 ⚡ Always up for learning and sharing knowledge
 
 # ⚠️ Disclaimer
