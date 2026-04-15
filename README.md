@@ -1,7 +1,7 @@
 # WELCOME TO MY GITHUB PAGE
 # 👋 Hi, I'm Jayyanth Kaduru
 
-# 💻 Aspiring Penetration Tester | Cybersecurity Enthusiast | Python Developer
+# 💻 Penetration Tester | Cybersecurity Enthusiast | Python Developer
 
 I’m passionate about cybersecurity, ethical hacking, and building tools that explore and strengthen system security. I enjoy working on offensive security projects and continuously improving my skills in real-world scenarios.
 
