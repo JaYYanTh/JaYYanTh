@@ -6,7 +6,7 @@
 I’m passionate about cybersecurity, ethical hacking, and building tools that explore and strengthen system security. I enjoy working on offensive security projects and continuously improving my skills in real-world scenarios.
 
 # About Me
-🔐 Aspiring Penetration Tester
+🔐 Penetration Tester
 
 🛠️ Building custom cybersecurity tools
 
